@@ -1,0 +1,2 @@
+1) How is the staging area different from the working directory and the repository? What value do you think it offers?
+ >> the working directory holds all the files and their current changes, repository only holds files and also the list of changes on them, and staging area holds the files that are going to be send to the repository with a change message to be saved

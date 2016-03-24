@@ -1,2 +1,12 @@
 1) How is the staging area different from the working directory and the repository? What value do you think it offers?
- >> the working directory holds all the files and their current changes, repository only holds files and also the list of changes on them, and staging area holds the files that are going to be send to the repository with a change message to be saved
+ >> The working directory holds all the files and their current changes, repository only holds files and also the list of changes on them, and staging area holds the files that are going to be send to the repository with a change message to be saved
+ 2) How can you use the staging area to make sure you have one commit per logical change?
+  >> You can use the staging area to add all the elements that are related to a logical change and then commit only this files
+ 3) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+  >> When you are trying out a new feature, or when you want to make the game in a new language, etc. Summarizing, when you are not sure if the new changes are going to be released
+ 4) How do the diagrams help you visualize the branch structure?
+  >> IDK just stop asking pls :'( jdajkhdfjahsdf
+ 5) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+  >> STAP!!!
+ 6) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+  >> hsasdjfasdfhaskdf :)

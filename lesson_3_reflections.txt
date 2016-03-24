@@ -9,3 +9,5 @@
 5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
  >> Using e-mail and chats, working on encapsulated features.
  >> Would be easier not having to learn git xD and would be harder merging the project together by hand.
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ >> When I want to make a new feature or fix a bug or anything with the code that I'm not sure if it's going to be for sure in the main project.

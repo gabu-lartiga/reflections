@@ -6,3 +6,6 @@
  >> Fork is a github copy system that allows people copy repositories from others without losing the link with the creator. Clones are copies of a repository into your local repository. And branches are new commits that splits from your local repository.
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
  >> you can compare potential bugs that are or are not in the remote.
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+ >> Using e-mail and chats, working on encapsulated features.
+ >> Would be easier not having to learn git xD and would be harder merging the project together by hand.
